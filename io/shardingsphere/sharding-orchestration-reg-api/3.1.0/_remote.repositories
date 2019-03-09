@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 09 17:29:14 CST 2019
+sharding-orchestration-reg-api-3.1.0.jar>=
+sharding-orchestration-reg-api-3.1.0-javadoc.jar>=
+sharding-orchestration-reg-api-3.1.0.pom>=
+sharding-orchestration-reg-api-3.1.0-sources.jar>=
